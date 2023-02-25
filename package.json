@@ -44,7 +44,7 @@
 		"@nextcloud/vue": "^7.0.0",
 		"@nextcloud/vue-dashboard": "^2.0.1",
 		"vue": "^2.6.14",
-		"vue-material-design-icons": "^5.1.1"
+		"vue-material-design-icons": "^5.2.0"
 	},
 	"devDependencies": {
 		"@nextcloud/babel-config": "^1.0.0",
